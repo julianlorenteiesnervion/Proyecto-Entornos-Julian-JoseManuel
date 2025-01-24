@@ -1,1 +1,1 @@
-ECHO est  activado.
+julian Lorente jose manuel
