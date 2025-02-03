@@ -16,7 +16,7 @@ public class EjerJulianJose {
 			System.out.print(i + " ");
 		}
 		// Generamos un número aleatorio
-		System.out.println(random.nextInt(1, 11));
+		System.out.println(random.nextInt(1, 10));
 	}
 
 }
