@@ -12,6 +12,13 @@ public class EjerJulianJose {
 		for (int i = 1; i <= 20; i++) {
 			System.out.print(i + " ");
 		}
+
+		System.out.println();
+		
+		// For que muestra los números del 21 al 40
+		for (int i = 21; i <= 40; i++){
+			System.out.print(i + " ")
+		}
 	}
 
 }
